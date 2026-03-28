@@ -61,4 +61,3 @@ I am a Computer Science learner with a strong interest in building a solid found
 ---
 
 > “Consistency and clarity in fundamentals lead to long-term success in software development.”
-
