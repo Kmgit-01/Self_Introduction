@@ -60,11 +60,5 @@ I am a Computer Science learner with a strong interest in building a solid found
 
 ---
 
-## 📫 Contact
-
-* GitHub: *(Add your profile link here)*
-
----
-
 > “Consistency and clarity in fundamentals lead to long-term success in software development.”
 
