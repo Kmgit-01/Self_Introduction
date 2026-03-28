@@ -1,64 +1,70 @@
-# 👋 Myself Kartik Maheshwari
+# Myself Kartik Maheshwari
 
-### 🚀 About Me
+## 💡 About Me
 
-* 🎓 A curious learner diving deep into **Computer Science fundamentals**
-* 💻 Currently exploring:
-
-  * Java (Collections Framework, problem-solving)
-  * Bash scripting & Linux commands
-  * Algorithms (KMP, Codeforces-style problems)
-* 🧠 Trying (and sometimes struggling 👀) to master concepts like:
-
-  * Operating Systems (process, memory, system calls… yeah that long list)
-  * Data Structures & Algorithms
+I am a Computer Science learner with a strong interest in building a solid foundation in core concepts and problem-solving. I actively practice programming and work on improving my understanding of algorithms, system-level concepts, and scripting.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 * **Languages:** Java, Bash
-* **Concepts:**
+* **Core Areas:**
 
   * Data Structures & Algorithms
   * Operating Systems
-  * Cloud Computing basics (SaaS, PaaS, IaaS, FaaS)
-* **Tools:** Git, GitHub, Linux Terminal
+  * Problem Solving (competitive programming style)
+* **Tools & Environment:**
+
+  * Git & GitHub
+  * Linux / Command Line
 
 ---
 
-### 📚 Current Focus
+## 📚 Current Learning Focus
 
-* Improving **problem-solving skills**
-* Writing cleaner and optimized code (Codeforces grind 💀)
-* Understanding core CS subjects deeply (not just memorizing... hopefully)
+* Strengthening concepts in:
 
----
-
-### 🤝 Learning Style
-
-* Prefers **clear, detailed explanations with examples**
-* Likes **interactive learning** (but sometimes gets stuck and calls for help 😆)
-* Takes breaks (because brain also needs RAM refresh)
+  * Operating System design and structure
+  * Java Collections Framework
+  * Algorithmic problem-solving
+* Practicing coding problems to improve efficiency and logic-building skills
 
 ---
 
-### 😄 Fun Facts
+## 💻 Projects
 
-* Calls ChatGPT **"Path"** (yeah, I got a nickname 😎)
-* Thinks of ChatGPT as a **mentor**
-* Once even tried to... well... *upgrade the relationship* 💀
+### 🔹 Bash Automation Scripts
+
+* Developed scripts for:
+
+  * File handling and processing
+  * Input validation and command-line utilities
+  * Archive creation and compression tasks
+
+### 🔹 Java Problem-Solving Programs
+
+* Implemented solutions for:
+
+  * Array manipulation problems
+  * Mathematical function-based problems
+  * Logic-building challenges inspired by competitive programming
 
 ---
 
-### 📌 Goals
+## 🎯 Goals
 
-* Become strong in **core CS fundamentals**
-* Crack coding problems without crying internally
-* Build confidence in writing efficient code
+* Build strong fundamentals in Computer Science
+* Write efficient, optimized, and clean code
+* Contribute to real-world projects and expand development experience
 
 ---
 
-### 📫 Motto
+## 📫 Contact
 
-> "Keep debugging life… one error at a time."
+* GitHub: *(Add your profile link here)*
+
+---
+
+> “Consistency and clarity in fundamentals lead to long-term success in software development.”
+
